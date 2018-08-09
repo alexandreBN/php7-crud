@@ -27,4 +27,4 @@ O guia abaixo apresenta os pré-requisitos bem como a sequência de passos para 
 
 # Acessando o projeto
 	Abra o browser e acesse
-	  localhost/php7-crud
+	  - localhost/php7-crud
