@@ -1,14 +1,16 @@
-Esse projeto tem como objetivo implementar um CRUD simples com PHP 7.
+Esse projeto foi criado com objetivo de implementar um CRUD simples com PHP 7 e MySQL.
+O guia abaixo apresenta os pré-requisitos bem como a sequência de passos para visualização dos outputs da implementação.
+
 
 # Pre-requisitos
 	Instalação e inicialização
-		- Servidor local
-		- MySQL
+	  - Servidor local
+	  - MySQL
 
 # Clonando o repositório
 	Abra o terminal
-		git clone <>
-		cp php7-crud /path/local/server -r && cd /path/local/server/php7-crud
+	  - git clone https://github.com/alexandreBN/php7-crud.git
+	  - cp php7-crud /path/local/server -r && cd /path/local/server/php7-crud
 
 # Criando o schema
 	CREATE SCHEMA `abnphp` ;
@@ -25,4 +27,4 @@ Esse projeto tem como objetivo implementar um CRUD simples com PHP 7.
 
 # Acessando o projeto
 	Abra o browser e acesse
-		localhost/php7-crud
+	  localhost/php7-crud
